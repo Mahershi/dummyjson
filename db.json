@@ -1,11 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "stats": {
+    "earning": "144",
+    "trips": "7",
+    "milestones": "17",
+    "rewards": "60"
   }
 }
